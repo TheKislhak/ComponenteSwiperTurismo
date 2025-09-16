@@ -10,7 +10,7 @@ import "./Testemunho.css";
 export default function Testemunho() {
   return (
     <main className="Testemunho-container">
-      <h1 className="Testemunho-title">Leia o que o pessoal acaha da gente!</h1>
+      <h1 className="Testemunho-title">Leia o que o pessoal acha da gente!</h1>
 
       <Swiper
         modules={[Pagination, Autoplay]}
