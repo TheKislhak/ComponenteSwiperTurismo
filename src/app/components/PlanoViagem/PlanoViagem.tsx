@@ -11,7 +11,7 @@ export default function PlanoViagem() {
     <section className="planner-container">
       <div className="planner-image-wrapper">
         <img 
-          src="ilha.png" 
+          src="cap.png" 
           alt="Ilha do Cardoso" 
           className="planner-image"
         />
@@ -20,7 +20,7 @@ export default function PlanoViagem() {
       <div className="planner-content">
         <h1 className="planner-title">Planejamos tudo para você</h1>
         <p className="planner-subtitle">
-           Planejamos tudo para você aproveitar as melhores casas da ilha com conforto e exclusividade
+           Planejamos tudo para você aproveitar os melhores Mundos!
         </p>
 
         <div className="steps-list">

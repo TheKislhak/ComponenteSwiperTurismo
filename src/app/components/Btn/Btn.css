@@ -19,6 +19,7 @@ button {
     cursor: pointer;
 }
 
+/*
 .meio {
     position: absolute;
     background-color: white;
@@ -46,6 +47,7 @@ button {
     top: 27px;
     background-color:#9c7c59;
 }
+*/
 
 .icon-circle {
     display: flex;

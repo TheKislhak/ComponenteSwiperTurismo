@@ -1,22 +1,32 @@
 export const destinos = [
   {
-    imagem: '/casa01.png',
-    titulo: 'Refúgio Familiar com Piscina',
-    descricao: 'Casa espaçosa com 3 quartos, piscina e churrasqueira a 200m da praia. Perfeita para o conforto da sua família nas férias.'
+    imagem: '/SeasideKingdom.png',
+    titulo: 'Reino de Seaside',
+    descricao: 'Uma praia rica com sua beleza natural, pronta para ser explorada e mergulhar nessa aventura. Contanto com Volleyball local.'
   },
   {
-    imagem: '/casa02.png',
-    titulo: 'Sobrado Espaçoso para Grupos',
-    descricao: 'Acomoda até 12 pessoas! Sobrado com 4 quartos, ampla área de lazer com churrasqueira e salão de jogos. Reúna os amigos!'
+    imagem: '/sand.png',
+    titulo: 'Reino da Areia',
+    descricao: 'Vila local amigável, recptiva e Reino com muito a oferecer, contando com monumentos históricos e viagens raídas.'
   },
   {
-    imagem: '/casa03.png',
-    titulo: 'Charme e Sossego: Pé na Areia',
-    descricao: 'Acorde com o som das ondas. Casa com acesso direto à praia, varanda com rede e vista para o mar. Ideal para casais e pequenas famílias.'
+    imagem: '/mush.png',
+    titulo: 'Reino Cogumelo',
+    descricao: 'O Reino mais amigável e vasto na questão de aventuras. Os Cogumelos residentes locais são amigáveis e felizes, trazendo uma serenidade.'
   },
   {
-    imagem: '/casa04.png',
-    titulo: 'Conforto a Poucos Passos do Mar',
-    descricao: 'Casa recém-reformada com ar-condicionado, Wi-Fi e cozinha completa. Todo o conforto que você precisa a apenas 3 quadras da praia.'
+    imagem: '/metro.png',
+    titulo: 'Reino do Metro',
+    descricao: 'Tudo que há em cidade grande em uma só! O Reino do Metro é ótimo para fazer suas compras.'
+  },
+  {
+    imagem: '/lunch.png',
+    titulo: 'Reino do Almoço',
+    descricao: 'Aqui, sua fome será completamento anulada! NO Reino do Almoço, o que não vai fazer é diversão e muito, mas muita comida, então se prepare!.'
+  },
+  {
+    imagem: '/bowser.png',
+    titulo: 'Reino do Metro',
+    descricao: 'O Reino do temido Bowser abriu as portas para visitas, mesmo com o vasto perigo, Bowser(por enquanto) garentiu segurança dos turistas.'
   }
 ];

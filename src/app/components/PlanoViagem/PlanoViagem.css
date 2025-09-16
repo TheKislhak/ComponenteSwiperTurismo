@@ -2,8 +2,8 @@
 :root {
   --primary-color: #3b82f6; /* Azul Principal */
   --primary-color-light: #eff6ff; /* Fundo do ícone ativo (Azul claro) */
-  --text-color-dark: #1f2937; /* Títulos */
-  --text-color-light: #6b7280; /* Subtítulos e descrições */
+  --text-color-dark: #141415; /* Títulos */
+  --text-color-light: #000000; /* Subtítulos e descrições */
   --background-color: #a2a4a7; /* Cor de fundo geral */
   --card-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -4px rgba(0, 0, 0, 0.1);
 }

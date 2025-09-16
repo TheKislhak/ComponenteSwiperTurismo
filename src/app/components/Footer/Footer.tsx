@@ -6,7 +6,7 @@ export default function Footer() {
     <footer className="cta-footer-container">
       <div className="cta-footer-content">
         <h2 className="cta-footer-title">
-          A Paraíso Ilha Comprida leva você às melhores casas da ilha!
+          Uma odisseia de expêriencia única!
         </h2>
         <p className="cta-footer-subtitle">
           Clique aqui para conversar com nossos corretores!
